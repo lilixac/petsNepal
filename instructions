@@ -3,13 +3,13 @@ Pets Nepal
 Database:
 
 Table   : pets
-columns : pid,name,description,uploadedby 
+columns : pid,name,description,uploadedby,imgpath
 
 Table   : products
 columns : pid,name,price,description
 
 Table   : users
-columns : uid,username,name,password,location
+columns : uid,username,name,password
 
 Table   : blog
 columns : bid,title,description,uploadedby
