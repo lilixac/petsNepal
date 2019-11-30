@@ -11,7 +11,7 @@
                  
                   </form>
                   </div>
-                  <div class="col-md-1" style="margin-left:-30px;"> <img src="{{asset('icons/search.png')}}" height="40"></div>
+                  <div class="col-md-1" style="margin-left:-30px;"> <a href="/adoption"><img src="{{asset('icons/search.png')}}" height="40"></a></div>
     
               </div>
     

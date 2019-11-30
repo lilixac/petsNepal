@@ -50,7 +50,7 @@
                     <div class="card border-0 shadow">
                     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTzAdz_FHXsdbGhhFUcJ1e94lrrtYUpuUhBI5l_X_nLxJIGtpQW" class="card-img-top" alt="...">
                     <div class="card-body text-center">
-                        <h5 class="card-title mb-0">Saroooj Dhakal</h5>
+                        <h5 class="card-title mb-0">Saroj<br/> Dahal</h5>
                         <div class="card-text text-black-50">Web Developer</div>
                     </div>
                     </div>

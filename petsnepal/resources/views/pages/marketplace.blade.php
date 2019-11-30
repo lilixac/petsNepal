@@ -32,7 +32,7 @@
                                     
                                     <div class="d-flex align-items-center justify-content-between mt-1">
                                         <h5> price: Rs. 200 </h5><br>
-                                        <span class="badge badge-pill badge-primary">Buy Now</span>
+                                       <br/> <button class="btn btn-info" style="border-radius:14px;">Buy Now</button>
     
                                         <ul class="list-inline small">
                                             <li class="list-inline-item m-0"><i class="fa fa-star text-success"></i></li>
@@ -65,7 +65,7 @@
                         
                                     <div class="d-flex align-items-center justify-content-between mt-1">
                                         <h5> price: Rs. 200 </h5><br>
-                                        <span class="badge badge-pill badge-primary">Buy Now</span>
+                                        <br/> <button class="btn btn-info" style="border-radius:14px;">Buy Now</button>
                         
                                         <ul class="list-inline small">
                                             <li class="list-inline-item m-0"><i class="fa fa-star text-success"></i></li>
@@ -98,7 +98,7 @@
                         
                                     <div class="d-flex align-items-center justify-content-between mt-1">
                                         <h5> price: Rs. 200 </h5><br>
-                                        <span class="badge badge-pill badge-primary">Buy Now</span>
+                                        <br/> <button class="btn btn-info" style="border-radius:14px;">Buy Now</button>
                         
                                         <ul class="list-inline small">
                                             <li class="list-inline-item m-0"><i class="fa fa-star text-success"></i></li>
@@ -133,7 +133,7 @@
                                         
                                     <div class="d-flex align-items-center justify-content-between mt-1">
                                         <h5> price: Rs. 200 </h5><br>
-                                    <span class="badge badge-pill badge-primary">Buy Now</span>
+                                        <br/> <button class="btn btn-info" style="border-radius:14px;">Buy Now</button>
                                         <ul class="list-inline small">
                                             <li class="list-inline-item m-0"><i class="fa fa-star text-success"></i></li>
                                             <li class="list-inline-item m-0"><i class="fa fa-star text-success"></i></li>
