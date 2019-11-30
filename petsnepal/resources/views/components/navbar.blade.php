@@ -42,8 +42,9 @@
               <a class="nav-link" tabindex="-1" href="/contactus">Contact us</a>
             </li>
           </ul>
-          
-          <a href="/adoption"><button class="btn btn-secondary" >Adopt Now <img src="{{asset('images/icons/cat.jpg')}}"  height="20" width="20"></button></a>
+        
+          <a href="/dashboard"><button class="btn btn-danger" >Login <span class="fa fa-user"></span></button></a>&nbsp;&nbsp;
+          <a href="/adoption"><button class="btn btn-info" >Adopt Now <img src="{{asset('images/icons/cat.jpg')}}"  height="20" width="20"></button></a>
         </div>
       </nav>
  
