@@ -12,7 +12,10 @@ Table   : users
 columns : uid,username,name,password
 
 Table   : blog
-columns : bid,title,description,uploadedby
+columns : bid,title,description,datetime
+
+Table   : messages
+columns : name,email,location,message
 
 
 
