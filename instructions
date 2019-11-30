@@ -1,0 +1,22 @@
+Pets Nepal
+
+Database:
+
+Table   : pets
+columns : pid,name,description,uploadedby 
+
+Table   : products
+columns : pid,name,price,description
+
+Table   : users
+columns : uid,username,name,password,location
+
+Table   : blog
+columns : bid,title,description,uploadedby
+
+
+
+
+................ B) Create a marketplace with pet food and accessories
+................ C) Create a blog platform
+................ D) Create a forum
