@@ -8,6 +8,11 @@ columns : pid,name,description,uploadedby
 Table   : products
 columns : pid,name,price,description
 
+Table   : users
+columns : uid,username,name,password,location
+
+
+
 
 
 ................ B) Create a marketplace with pet food and accessories
