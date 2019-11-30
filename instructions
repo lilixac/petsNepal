@@ -2,8 +2,11 @@ Pets Nepal
 
 Database:
 
-Table   : Pets
+Table   : pets
 columns : pid,name,description,uploadedby 
+
+Table   : products
+columns : pid,name,price,description
 
 
 
